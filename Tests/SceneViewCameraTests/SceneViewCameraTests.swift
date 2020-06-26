@@ -6,7 +6,7 @@ final class SceneViewCameraTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(SceneViewCamera().text, "Hello, World!")
+        //XCTAssertEqual(SceneViewCamera().text, "Hello, World!")
     }
 
     static var allTests = [
